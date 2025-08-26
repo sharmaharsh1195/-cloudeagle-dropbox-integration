@@ -57,8 +57,8 @@ Architecture Patterns
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/sharmaharsh1195/-cloudeagle-dropbox-integration
+cd -cloudeagle-dropbox-integration
 ```
 
 2. Update `application.properties` with your Dropbox OAuth2 credentials and access token.
